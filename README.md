@@ -34,3 +34,6 @@ The front-end of the application is designed using the Tkinter module in Python.
 ### How to use:-
 
 Download the folder and run the file main.py, the application will open then click on the start button it will trigger the application the application will ask user for command. Then give your command it will perform the tasks accordingly. 
+
+* The music files uploaded here are just samples to check the functionality. Change the files or change the music directory in the code accordingly to user your own musics.
+* To use the send email functionality go to the code and replace the stars with your your email and password and allow third party access from your email settings. 
